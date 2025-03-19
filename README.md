@@ -11,9 +11,10 @@
 ## 🏆 Rewards
 - **SW-Centered University Joint AI Competition - Chairman’s Award**
   - Issued by: Ministry of Science and ICT, 11.2023
+  - Develop an AI model for building area segmentation in satellite images
 - **SW/DT SeSAC Competition - 4th place**
   - Issued by: Soongsil Univ, 10. 2022
- 
+  - Develop a rule-based model for recommending music based on image sentiment analysis
 ---
 
 ## 📚 Publications
