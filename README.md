@@ -4,4 +4,13 @@
 Seongheum Kim in the VIP Lab. My research interest is vision transformer in **EMF Prediction**📡 and **tiny object detection**🔍. I have recently become interested in **multimodal deep learning for EMF Prediction**
 
 ## 📪 Contact
-- linked_in(https://www.linkedin.com/in/%EB%8F%84%EC%96%B8-%EA%B9%80-5a5a952a6/) | instagram(https://www.instagram.com/doeoniii_?igsh=MWd2N2wyZW1qd2NzYQ%3D%3D&utm_source=qr) or juns email me about EVERYTHING !
+<a href="https://www.linkedin.com/in/%EB%8F%84%EC%96%B8-%EA%B9%80-5a5a952a6/">
+    <img src="https://github.com/user-attachments/assets/3f170daf-0856-4c0f-9540-06ee3f5def76" width="30"  height="27" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/doeoniii_?igsh=MWd2N2wyZW1qd2NzYQ%3D%3D&utm_source=qr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"  height="37" />
+</a>
+
+
+
