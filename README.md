@@ -36,8 +36,10 @@
 - **📂Watchlist filtering** *(05.2024-02.2025)*<br/>
   - Developed a BERT-based model to measure name similarity for watchlisted individuals  
   - Utilized Semantic Textual Similarity(STS) BERT with Cosine Similarity
+    
 - **🧩SW DONGHANG Hackathon University Mentor** *(23.11.2024-24.11.2024)*<br/>
-  - Hosted by the Ministry of Science and ICT
+  - Hosted by Korea Foundation for the Advancement of Science and Creativity(KOSAC)
+    
 - **🧩[SKT FLY AI Challenger 4기](https://github.com/FLYAI4)** *(12.2023-02.2024)*<br/>
    - Hosted by SK telecom
    - Developed an AI-based **artwork description application** for museums utilizing ChatGPT and generative AI.
