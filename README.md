@@ -1,20 +1,20 @@
 # <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="45" height="45"/> Hi there! I'm doeon kim :)
 
-👋  I'm doeon, a Master's student in Graduate school of AI at [Soongsil University](https://ssu.ac.kr/), where I'm advised by Prof. Sungshin Kim in the SmartAILab and Prof. Seongheum Kim in the VIP Lab. My research interest is vision transformer in **EMF Prediction**📡 and **tiny object detection**🔍. I have recently become interested in **multimodal deep learning for EMF Prediction**
+👋  I'm doeon, a Master's student in Graduate school of AI at [Soongsil University](https://ssu.ac.kr/), where I'm advised by Prof. Sungshin Kim in the SmartAILab and Prof. Seongheum Kim in the VIP Lab. My research interest is **vision transformer in EMF Prediction**📡 and **tiny object detection**🔍. I have recently become interested in **multimodal deep learning for EMF Prediction**
 
 ## 📪 **Contact**
 - 🔗[LinkedIn](https://www.linkedin.com/in/%EB%8F%84%EC%96%B8-%EA%B9%80-5a5a952a6/) | 📷[Instagram](https://www.instagram.com/doeoniii_?igsh=MWd2N2wyZW1qd2NzYQ%3D%3D&utm_source=qr)
-- Or just ✉️[email]([doeon99@gmail.com](doeon99@gmail.com)) me about everything!
+- Or just ✉️[email](doeon99@gmail.com) me about everything!
 
 ---
 
-## 🏆 Rewards
+## 🏆 Awards
 - **SW-Centered University Joint AI Competition - Chairman’s Award**
   - Issued by: Ministry of Science and ICT, 11.2023
-  - Develop an AI model for building area segmentation in satellite images
+  - Developed an AI model for building area segmentation in satellite images
 - **SW/DT SeSAC Competition - 4th place**
   - Issued by: Soongsil Univ, 10. 2022
-  - Develop a rule-based model for recommending music based on image sentiment analysis
+  - Developed a rule-based model for recommending music based on image sentiment analysis
 ---
 
 ## 📚 Publications
@@ -29,17 +29,17 @@
   - Scene Text-to-Scene Text Translation (English/Korean Signboard Image Translation)  
   - Responsible for translation accuracy and contextual meaning preservation using translation models  
 
-- **📂[EMF(Electronic MagneticField) Prediction](https://github.com/kimdoeon/emf_project)** *(05.2024-present)*<br/>
+- **📂EMF(Electromagnetic Field) Prediction** *(05.2024-present)*<br/>
   - Vision Transformer-Based EMF Prediction in 5G Networks  
   - Applied transformer models (ViT, SegFormer, Swinformer, HRFormer, Mask2Former)
 
-- **📂[Watch list filtering](https://github.com/kimdoeon/wlf_project)** *(05.2024-02.2025)*<br/>
-  - Developed a BERT-based model to measure  name similarity for watchlisted individuals  
-  - Utilized Semantic Textual Similarity (STS) with Cosine Similarity
+- **📂Watchlist filtering** *(05.2024-02.2025)*<br/>
+  - Developed a BERT-based model to measure name similarity for watchlisted individuals  
+  - Utilized Semantic Textual Similarity(STS) BERT with Cosine Similarity
 - **🧩SW DONGHANG Hackathon University Mentor** *(23.11.2024-24.11.2024)*<br/>
   - Hosted by the Ministry of Science and ICT
 - **🧩[SKT FLY AI Challenger 4기](https://github.com/FLYAI4)** *(12.2023-02.2024)*<br/>
-   - Hosted by SK telecom,
+   - Hosted by SK telecom
    - Developed an AI-based **artwork description application** for museums utilizing ChatGPT and generative AI.
  
 ---
