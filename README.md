@@ -39,10 +39,11 @@
     
 - **🧩SW DONGHANG Hackathon University Mentor** *(23.11.2024-24.11.2024)*<br/>
   - Hosted by Korea Foundation for the Advancement of Science and Creativity(KOSAC)
+  - Mentored students in a hackathon project as an AI major, providing guidance on AI projects.
     
 - **🧩[SKT FLY AI Challenger 4기](https://github.com/FLYAI4)** *(12.2023-02.2024)*<br/>
    - Hosted by SK telecom
-   - Developed an AI-based **artwork description application** for museums utilizing ChatGPT and generative AI.
+   - Developed an AI-based artwork description application for museums utilizing ChatGPT and generative AI.
  
 ---
 
