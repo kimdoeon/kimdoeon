@@ -4,7 +4,7 @@
 
 ## 📪 **Contact**
 - 🔗[LinkedIn](https://www.linkedin.com/in/%EB%8F%84%EC%96%B8-%EA%B9%80-5a5a952a6/) | 📷[Instagram](https://www.instagram.com/doeoniii_?igsh=MWd2N2wyZW1qd2NzYQ%3D%3D&utm_source=qr)
-- Or just ✉️[email](doeon99@gmail.com) me about everything!
+- Or just ✉️[email](mailto:doeon99@gmail.com) me about everything!
 
 ---
 
