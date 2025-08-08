@@ -12,7 +12,7 @@
 - **SW-Centered University Joint AI Competition - Chairman’s Award** ([link](https://github.com/kimdoeon/Satellite-Image-Building-Segmentation))
   - Issued by: Ministry of Science and ICT, 11.2023
   - Developed an AI model for building area segmentation in satellite images
-- **SW/DT SeSAC Competition - 4th place**
+- **SW/DT SeSAC Competition - excellence award**
   - Issued by: Soongsil Univ, 10. 2022
   - Developed a rule-based model for recommending music based on image sentiment analysis
 ---
@@ -25,11 +25,11 @@
 
 ## 📂 Projects and 🧩 Activities 
 
-- **📂[ShowMyWorld in Korean](https://github.com/ShowMyWorldInKorean/visualTranslation)** *(02.2025-present)*<br/>
+- **📂[ShowMyWorld in Korean](https://github.com/ShowMyWorldInKorean/visualTranslation)** *(02.2025-04.2025)*<br/>
   - Scene Text-to-Scene Text Translation (English/Korean Signboard Image Translation)  
   - Responsible for translation accuracy and contextual meaning preservation using translation models  
 
-- **📂EMF(Electromagnetic Field) Prediction** *(05.2024-present)*<br/>
+- **📂EMF(Electromagnetic Field) Prediction** *(05.2024-07.2025)*<br/>
   - Vision Transformer-Based EMF Prediction in 5G Networks  
   - Applied transformer models (ViT, SegFormer, Swinformer, HRFormer, Mask2Former)
 
