@@ -9,6 +9,9 @@
 ---
 
 ## 🏆 Awards
+- **26 LPCVC - 2nd Place** ([link](https://github.com/LPCV-SSUPER-POWER/Track3-AI-Generated-Images-Detection))
+  - Issued by: Qualcomm and ECV workshop at CVPR, 6.2026
+  - AI Generated Images Detection
 - **SW-Centered University Joint AI Competition - Chairman’s Award** ([link](https://github.com/kimdoeon/Satellite-Image-Building-Segmentation))
   - Issued by: Ministry of Science and ICT, 11.2023
   - Developed an AI model for building area segmentation in satellite images
@@ -18,8 +21,11 @@
 ---
 
 ## 📚 Publications
+- Estimation of Electromagnetic Field Strength:Experiments Using Vision Transformers, IEEE Access, 2025<br/>
+- 5G 환경에서 전자기장 예측을 위한 ViT 기반 멀티모달 물리 데이터 결합 연구, 대한전자공학회(CEIC) 추계 학술대회, 2025<br/>
+*Multimodal Physical Data Fusion using ViT for 5G Electromagnetic Field Estimation, CEIC Fall Conference, 2025*
 - 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국지능시스템학회(KIIS) 추계학술대회, 2024<br/>
-*Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korean Institute of Intelligent Systems(KIIS) Fall Conference, 2024)*
+*Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korean Institute of Intelligent Systems(KIIS) Fall Conference, 2024*
  
 ---
 
