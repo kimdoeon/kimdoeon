@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="45" height="45"/> Hi there! I'm doeon kim :)
+# Hi there! I'm doeon kim :)
 
 👋  I'm doeon, a Master's student in the Graduate school of AI at [Soongsil University](https://ssu.ac.kr/), co-advised by Prof. Sungshin Kim (SmartAILab) and Prof. Seongheum Kim (VIP Lab). My research focuses on **WiFi CSI sensing** 🔍 and **multimodal deep learning for EMF prediction** 📡. Moving forward, I aim to extend my work toward **wireless sensing for human perception**.
 
